@@ -1,2 +1,9 @@
-# epicday3splash
-EPIC DAY.3 – splash animation version (particles form EPICDAY.3 + theme, then reveal the sphere top page)
+# EPIC DAY.3 — スプラッシュアニメーション版
+
+サイトを開くと、黒い画面で粒子が「EPICDAY.3」の文字になり、下にテーマ「多様性が響き合う、特別な一日。」が出たあと、粒子が散って黄色の3D粒子球体のトップページが現れるバージョンです。
+
+ベースは epicday3v2 のバックアップ版（ネオン・ドラッグを足す前の球体版）です。
+
+公開URL: https://hhoshizora-usagi.github.io/epicday3splash/
+
+※出演者・日程・会場・画像はすべて仮のものです（画像はAI生成）。
